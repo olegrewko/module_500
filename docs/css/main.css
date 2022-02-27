@@ -24,7 +24,10 @@ body {
 
 /* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap'); */
 
-
+.testvideo {
+  width: 100%;
+  height: auto
+}
 
 @font-face {
   font-family: 'Montserrat';
@@ -281,8 +284,8 @@ ul li {
 }
 ul.menu {
   display: flex;
-  align-items: center;
-  align-content: center;
+  align-items: left;
+  align-content: left;
   align-self: baseline;
   flex-wrap: wrap;
   z-index: 1;
