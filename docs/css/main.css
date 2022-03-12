@@ -352,6 +352,9 @@ a:hover {
   text-decoration: none;
   transition: 0.5s;
 }
+.black-background{
+  background-color: black;
+}
 
 .green{
   background-color: #3adb76;
